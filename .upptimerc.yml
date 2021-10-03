@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** status of stuff and things
+  introTitle: "**Upptime** status of stuff and things"
   introMessage: This is a sample status page 
   navbar:
     - title: Status
