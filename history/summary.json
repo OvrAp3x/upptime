@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 82,
+    "timeDay": 66,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
@@ -22,18 +22,20 @@
     "url": "https://sec.wehasinter.net",
     "icon": "https://favicons.githubusercontent.com/sec.wehasinter.net",
     "slug": "sec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4134,
-    "timeDay": 7055,
-    "timeWeek": 4134,
-    "timeMonth": 4134,
-    "timeYear": 4134,
-    "dailyMinutesDown": {}
+    "time": 6017,
+    "timeDay": 19192,
+    "timeWeek": 6017,
+    "timeMonth": 6017,
+    "timeYear": 6017,
+    "dailyMinutesDown": {
+      "2021-10-05": 0
+    }
   },
   {
     "name": "Wiki",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 735,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 562,
+    "timeDay": 477,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 155,
-    "timeWeek": 123,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "time": 115,
+    "timeDay": 87,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
