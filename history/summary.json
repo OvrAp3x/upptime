@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/sec.wehasinter.net",
     "slug": "sec",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 5591,
     "timeDay": 646,
     "timeWeek": 5591,
@@ -42,9 +42,9 @@
     "url": "https://wiki.wehasinter.net",
     "icon": "https://favicons.githubusercontent.com/wiki.wehasinter.net",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-07": 0
+    }
   },
   {
     "name": "cloud",
