@@ -13,7 +13,18 @@ sites:
     check: "tcp-ping"
     url: 5.196.67.228
     port: 80
-
+  - name: stenberg.im mx
+    check: "tcp-ping"
+    url: 5770e78ab2744d97f1aa00df2a160c.pamx1.hotmail.com
+    port: 25
+  - name: stenberg.im mx ssl
+    check: "tcp-ping"
+    url: 5770e78ab2744d97f1aa00df2a160c.pamx1.hotmail.com
+    port: 587
+  - name: stenberg.im mx startls
+    check: "tcp-ping"
+    url: 5770e78ab2744d97f1aa00df2a160c.pamx1.hotmail.com
+    port: 465
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
