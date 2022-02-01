@@ -4,10 +4,10 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
@@ -15,7 +15,9 @@
     "timeWeek": 81,
     "timeMonth": 75,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 1
+    }
   },
   {
     "name": "Sec",
