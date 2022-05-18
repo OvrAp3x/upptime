@@ -117,7 +117,7 @@
     "status": "up",
     "uptime": "84.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.95%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "64.11%",
     "uptimeYear": "84.99%",
     "time": 534,
@@ -214,10 +214,10 @@
     "url": "5770e78ab2744d97f1aa00df2a160c.pamx1.hotmail.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stenberg-im-mx-ssl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -225,16 +225,18 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "stenberg.im mx startls",
     "url": "5770e78ab2744d97f1aa00df2a160c.pamx1.hotmail.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "stenberg-im-mx-startls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -243,6 +245,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
